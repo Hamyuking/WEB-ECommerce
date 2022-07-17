@@ -136,11 +136,15 @@ h1{
     }
   
     .column {
-        width: 100%;
+        max-width: 100%;
         display: block;
-        margin-bottom: -15px;
-        margin-left: 20px;
+        position: relative;
+        left: -50px;
         transition: all 1s ease; 
+    }
+
+    .dl{
+        max-width: 100%;
     }
 
     h1{
