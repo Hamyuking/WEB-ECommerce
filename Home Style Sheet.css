@@ -164,6 +164,15 @@ p2 {
     margin: 50px 0 50px -450px;
   }
   
+  .card1 img{
+    width: 100%;
+    height: auto;
+  }
+
+  .sidecard3 img{
+    margin-right: 50px;
+  }
+  
   nav ul {
     margin-top: -80px;
     padding-right: -5px;
